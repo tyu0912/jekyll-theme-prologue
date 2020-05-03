@@ -8,6 +8,8 @@ This is Prologue, a simple, single page responsive site template from [HTML5 UP]
 
 **Demo**: https://chrisbobbe.github.io/jekyll-theme-prologue/
 
+**Helpful Links**: https://help.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll
+
 # Added Features
 
 * **Blogging and multi-page features you expect from Jekyll**
